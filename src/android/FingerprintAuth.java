@@ -297,7 +297,7 @@ public class FingerprintAuth extends CordovaPlugin {
                                         // Show the fingerprint dialog. The user has the option to use the fingerprint with
                                         // crypto, or you can fall back to using a server-side verified password.
                                         mFragment.setCryptoObject(new FingerprintManager.CryptoObject(mCipher));
-                                        mFragment.show(cordova.getActivity().getFragmentManager(), DIALOG_FRAGMENT_TAG);
+                                        //mFragment.show(cordova.getActivity().getFragmentManager(), DIALOG_FRAGMENT_TAG);
                                     } else {
                                         if (!mDisableBackup) {
                                             // This happens if the lock screen has been disabled or or a fingerprint got
