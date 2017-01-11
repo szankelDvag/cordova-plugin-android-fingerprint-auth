@@ -19,7 +19,7 @@
     <string name="use_backup">Kennwort verwenden</string>
     <string name="fingerprint_auth_dialog_title">Mit Fingerabdruck anmelden</string>
     <string name="ok">OK</string>
-    <string name="fingerprint_description">Öffnen Sie 'Meine App' mit Ihrem Fingerabdruck</string>
+    <string name="fingerprint_description">Öffnen Sie 'MeineApp' mit Ihrem Fingerabdruck</string>
     <string name="fingerprint_hint">Fingerabdruck scannen</string>
     <string name="fingerprint_not_recognized">Der Fingerabdruck wurde nicht erkannt. Versuchen Sie es noch einmal.</string>
     <string name="fingerprint_success">Fingerabdruck erkannt</string>
